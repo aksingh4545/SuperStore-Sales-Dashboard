@@ -24,7 +24,7 @@ Super Store Sales Dataset
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Files
 - Dashboard.pbix
